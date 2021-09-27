@@ -30,8 +30,8 @@ input {
     background-color: #1789FC;
     color: white;
     width: 200px;
-    position: absolute;
-    left: 575px;
+    position: relative;
+    left: 15%;
 }
 
 p {
